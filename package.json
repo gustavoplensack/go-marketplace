@@ -58,5 +58,9 @@
     "react-test-renderer": "16.11.0",
     "ts-jest": "^25.4.0",
     "typescript": "^3.8.3"
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:gustavoplensack/go-marketplace.git",
+  "author": "Gustavo <gustavoplensack@gmail.com>",
+  "license": "MIT"
 }
